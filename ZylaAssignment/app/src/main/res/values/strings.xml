@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ZylaAssignment</string>
+
+        <string-array name = "filterWith">
+            <item>Artist</item>
+            <item>Album</item>
+        </string-array>
+
+    <string-array name = "showSize">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
