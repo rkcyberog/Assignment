@@ -1,0 +1,9 @@
+  
+  WorkFlow(Please read the comment in the code as well)
+  
+1. Fetched Data of .csv file using bufferReader and 
+2. Used arraylist and hashmap for structing the data as a collection on basis of Album and Artist
+3. Used nested Recyclerview with parent as verticle layout and child as horizontal Grid layout.
+4. Used DataBinding concept to bind the data with self generated .binding class
+5. Used Spinner for filter data and notifyDataSetChange to adapter.
+
